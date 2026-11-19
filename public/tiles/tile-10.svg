@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+<defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b3a26"/><stop offset="1" stop-color="#04140d"/></linearGradient>
+<radialGradient id="r" cx="0.5" cy="0.55" r="0.55"><stop offset="0" stop-color="#22ff88" stop-opacity=".35"/><stop offset="1" stop-color="#22ff88" stop-opacity="0"/></radialGradient></defs>
+<rect width="240" height="240" fill="url(#b)"/><rect width="240" height="240" fill="url(#r)"/>
+<path d="M0 214h240" stroke="#22ff88" stroke-opacity=".25"/>
+<path d="M42 32l2.1 4.9 4.9 2.1-4.9 2.1-2.1 4.9-2.1-4.9-4.9-2.1 4.9-2.1z" fill="#22ff88" opacity=".85"/><path d="M99 54l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5z" fill="#22ff88" opacity=".85"/><path d="M214 145l1.5 3.5 3.5 1.5-3.5 1.5-1.5 3.5-1.5-3.5-3.5-1.5 3.5-1.5z" fill="#22ff88" opacity=".85"/>
+<polygon points="86.0,117.0 120.0,134.0 120.0,168.0 86.0,151.0" fill="#15803d" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="120.0,134.0 154.0,117.0 154.0,151.0 120.0,168.0" fill="#22ff88" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="120.0,100.0 154.0,117.0 120.0,134.0 86.0,117.0" fill="#b9ffd8" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="86.0,83.0 120.0,100.0 120.0,134.0 86.0,117.0" fill="#15803d" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="120.0,100.0 154.0,83.0 154.0,117.0 120.0,134.0" fill="#22ff88" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="120.0,66.0 154.0,83.0 120.0,100.0 86.0,83.0" fill="#b9ffd8" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M108.4 83.0 v-6.8 a11.6 5.8 0 0 1 23.1 0 v6.8 a11.6 5.8 0 0 1 -23.1 0z" fill="#22ff88" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<ellipse cx="120.0" cy="76.2" rx="11.6" ry="5.8" fill="#e6fff1" stroke="#07060d" stroke-width="1.5"/>
+<polygon points="120.0,134.0 154.0,151.0 154.0,185.0 120.0,168.0" fill="#15803d" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="154.0,151.0 188.0,134.0 188.0,168.0 154.0,185.0" fill="#22ff88" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="154.0,117.0 188.0,134.0 154.0,151.0 120.0,134.0" fill="#b9ffd8" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M142.4 134.0 v-6.8 a11.6 5.8 0 0 1 23.1 0 v6.8 a11.6 5.8 0 0 1 -23.1 0z" fill="#22ff88" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<ellipse cx="154.0" cy="127.2" rx="11.6" ry="5.8" fill="#e6fff1" stroke="#07060d" stroke-width="1.5"/>
+<polygon points="52.0,134.0 86.0,151.0 86.0,185.0 52.0,168.0" fill="#15803d" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="86.0,151.0 120.0,134.0 120.0,168.0 86.0,185.0" fill="#22ff88" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="86.0,117.0 120.0,134.0 86.0,151.0 52.0,134.0" fill="#b9ffd8" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M74.4 134.0 v-6.8 a11.6 5.8 0 0 1 23.1 0 v6.8 a11.6 5.8 0 0 1 -23.1 0z" fill="#22ff88" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<ellipse cx="86.0" cy="127.2" rx="11.6" ry="5.8" fill="#e6fff1" stroke="#07060d" stroke-width="1.5"/>
+<polygon points="86.0,151.0 120.0,168.0 120.0,202.0 86.0,185.0" fill="#15803d" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="120.0,168.0 154.0,151.0 154.0,185.0 120.0,202.0" fill="#22ff88" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="120.0,134.0 154.0,151.0 120.0,168.0 86.0,151.0" fill="#b9ffd8" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M108.4 151.0 v-6.8 a11.6 5.8 0 0 1 23.1 0 v6.8 a11.6 5.8 0 0 1 -23.1 0z" fill="#22ff88" stroke="#07060d" stroke-width="1.5" stroke-linejoin="round"/>
+<ellipse cx="120.0" cy="144.2" rx="11.6" ry="5.8" fill="#e6fff1" stroke="#07060d" stroke-width="1.5"/>
+</svg>
